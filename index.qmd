@@ -2,7 +2,7 @@
 title: "Andrew Darwin"
 about:
   template: trestles
-  image: profile2.jpeg
+  image: profile1.jpg
   links:
     - icon: github
       text: Github
