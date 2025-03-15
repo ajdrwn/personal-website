@@ -1,7 +1,10 @@
 project:
   type: website
+  resources: 
+   - cv.pdf
 
 website:
+  title: Andrew Darwin
   navbar:
     right:
       - href: index.qmd
@@ -17,5 +20,6 @@ format:
     css: styles.css
     toc: true
 
-
+execute: 
+  freeze: auto
 

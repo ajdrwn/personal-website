@@ -1,0 +1,17 @@
+{
+  "hash": "a9963347b6ca6fe4ef05de80ffbb6ea5",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"personal website\"\n\nabout: \n  template: trestles\n\n  links:\n    - icon: github\n      text: Github\n      href: https://github.com/ajdrwn\n      \n---\n\n\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
