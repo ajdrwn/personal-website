@@ -1,3 +1,18 @@
 ---
 title: "Courses"
 ---
+
+
+| Term      | Courses              | 
+|--------------|----------------------|
+| Winter 2025  | STATS 140XP - Practice of Statistical Consulting    | 
+| Winter 2025  | STATS 102A - Introduction to Computational Statistics with R  | 
+| Winter 2025  | MATH 115A - Linear Algebra      | 
+| Fall 2024  | STATS 101C - Introduction to Statistical Models and Data Mining | 
+| Fall 2024  | COM SCI 32 - Introduction to COM SCI 2  | 
+| Spring 2024  | STATS 101B - Introduction to Design and Analysis of Experiment |
+| Spring 2024 | MATH 170S - Introduction to Probability and Statistics 2: Statistics |
+| Winter 2024  | STATS 101A - Introduction to Data Analysis and Regression  | 
+| Winter 2024 | STATS 100A - Introduction to Probability | 
+| Winter 2024  | COM SCI 31 - Intro to COM SCI 1   | 
+| Fall 2023  | STATS 20 - Programming with R   | 

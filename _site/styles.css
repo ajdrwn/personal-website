@@ -1,1 +1,24 @@
 /* css styles */
+/* Styling for the navigation bar */
+.navbar {
+    background-color: #E3F2FD;
+}
+
+.navbar a {
+    color: #000;  /* Black text for all links */
+    text-decoration: none;  /* Removes underline */
+}
+
+.navbar a:hover, .navbar a.active {
+    color: #FFFFFF;  /* Keeps text white on hover and when active */
+    background-color: transparent;  /* Ensures no background change */
+}
+
+
+body {
+    background-color: #DCDCDC; /* Light grey */
+    color: #333333; /* Darker text for contrast */
+}
+
+
+

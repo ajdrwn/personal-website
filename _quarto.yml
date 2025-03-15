@@ -15,11 +15,7 @@ website:
 
   page-footer: 
     right: "&copy, 2024, Andrew James Darwin"
-
-
-
-
-
+    background: "lightgrey"
 
 
 format:
