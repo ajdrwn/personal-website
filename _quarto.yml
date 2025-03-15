@@ -9,8 +9,18 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: Information
+      - href: courses.qmd
+        text: Coursework
+
+
+  page-footer: 
+    right: "&copy, 2024, Andrew James Darwin"
+
+
+
+
+
+
 
 format:
   html:

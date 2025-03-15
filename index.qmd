@@ -1,12 +1,20 @@
 ---
 title: "Andrew Darwin"
 about:
-  template: jolla
-  image: profile.jpg
+  template: trestles
+  image: profile2.jpg
   links:
     - icon: github
       text: Github
       href: https://github.com/ajdrwn
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/andrew-darwin-921656283/
+    - text: Email
+      url: "mailto:andrewjdarwin@gmail.com"
+    - text: CV
+      url: "cv.pdf"
+      
       
 toc: false
 ---
