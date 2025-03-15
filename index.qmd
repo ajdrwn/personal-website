@@ -2,7 +2,7 @@
 title: "Andrew Darwin"
 about:
   template: trestles
-  image: profile2.jpg
+  image: profile2.jpeg
   links:
     - icon: github
       text: Github
@@ -19,7 +19,7 @@ about:
 toc: false
 ---
 
-I am a third-year undergraduate student at the University of California, Los Angeles (UCLA) pursuing a major in Statistics and Data Science with a minor in Data Science Engineering. When I'm not analyzing data or coding, you’ll find me **playing video games**, experimenting with **photography**, or playing **volleyball**. I love strategy-based games, capturing unique moments through my camera, and staying active on the court.  
+I am a third-year undergraduate student at the University of California, Los Angeles (UCLA) pursuing a major in Statistics and Data Science with a minor in Data Science Engineering. When I'm not analyzing data or coding, you’ll find me playing video games, experimenting with photography, or playing volleyball. 
 
 ## Education
 

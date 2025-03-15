@@ -20,5 +20,8 @@ body {
     color: #333333; /* Darker text for contrast */
 }
 
-
+.divider {
+    border-top: 2px solid black !important; /* Adjusts thickness & color */
+    margin: 20px 0; /* Adds spacing */
+}
 
